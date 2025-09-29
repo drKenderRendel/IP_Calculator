@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.Design;
-
-namespace IP_Calculator
+﻿namespace IP_Calculator
 {
     class Program
     {
