@@ -1,4 +1,4 @@
-<H1>How to run on windows</H1>
+<H1>How to run on Windows</H1>
 <hr>
 <p>Open the ".SLN" project via Visual Studio and run it.</p>
 <p><i>I have used .NET Core 9 in my implementation, so using it to build the project is most advised.</i></p>
